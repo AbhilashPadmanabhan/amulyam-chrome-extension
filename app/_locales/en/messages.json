@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Amulyam plugin",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Plugin to read all mails from amulyam",
+    "description": "The description of the application"
+  }
+}

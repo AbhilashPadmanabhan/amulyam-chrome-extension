@@ -1,0 +1,18 @@
+# node modules
+node_modules
+
+# temporary directories
+temp
+.tmp
+
+# build/distributable files
+dist
+dist.zip
+dist*
+
+# temp
+.sass-cache
+app/bower_components
+test/bower_components
+package
+app/scripts
